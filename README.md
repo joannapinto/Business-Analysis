@@ -1,2 +1,1 @@
-# first
-my first repository
+Business Analystics with Excel: Elementary to Advanced.
